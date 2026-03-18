@@ -1,8 +1,8 @@
-# 💫 About Me:
-**Hello, World! I'm Thohira Shaik** (◔◡◔)<br><br>Software engineering, machine learning, systems thinking. I take abstract ideas and forge them into clean, scalable code.<br><br>**Collaboration style:** Clear communication. Thorough code reviews. Big believer in open source.<br><br>**Always exploring:** Deep dives into compiler optimisation, data visualisation, and the engineering behind hardware and software projects <br><br> Let's talk👇🏻 Questions? Opportunities? Just want to talk tech? I'm here. building, and solving real-world problems.
+# About Me (◔◡◔):
+**Hello, World! I'm Thohira Shaik** <br><br>Software engineering, machine learning, systems thinking. I take abstract ideas and forge them into clean, scalable code.<br><br>**Collaboration style:** Clear communication. Thorough code reviews. Big believer in open source.<br><br>**Always exploring:** Deep dives into compiler optimisation, data visualisation, and the engineering behind hardware and software projects <br><br> Let's talk👇🏻 Questions? Opportunities? Just want to talk tech? I'm here. building, and solving real-world problems.
 
 
-## 🌐 Socials:
+## 🌐 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thohira/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thohirashaik11@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,10 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=thohiraa&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thohiraa&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thohiraa&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
