@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, World! I'm Thohira Shaik(✿◡‿◡)<br><br>My work sits at the intersection of software engineering, machine learning, and systems thinking. I turn abstract ideas into maintainable code that actually ships.<br><br>Collaboration style (⌐■_■): Clear communication. Thorough code reviews. Big believer in open source.<br><br>Always exploring (◔◡◔): Deep dives into compiler optimisation, data viz, and the engineering behind projects like CERN's LHC.<br><br>📬 Let's talk. Questions? Opportunities? Just want to talk tech? I'm here.lding, and solving real problems.
+Hello, World! I'm Thohira Shaik(✿◡‿◡)<br><br>My work sits at the intersection of software engineering, machine learning, and systems thinking. I turn abstract ideas into maintainable code that actually ships.<br><br>Collaboration style : Clear communication. Thorough code reviews. Big believer in open source.<br><br>Always exploring: Deep dives into compiler optimisation, data viz, and the engineering behind projects like CERN's LHC.<br><br> Let's talk. Questions? Opportunities? Just want to talk tech? I'm here. building, and solving real problems.
 
 
 ## 🌐 Socials:
