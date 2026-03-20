@@ -1,6 +1,6 @@
 # About Me (◔◡◔):
 **Hello, World! I'm Thohira Shaik** <br><br>Software engineering, machine learning, systems thinking. I take abstract ideas and forge them into clean, scalable code.<br><br>**Collaboration style:** Clear communication. Thorough code reviews. Big believer in open source.<br><br>**Always exploring:** Deep dives into compiler optimisation, data visualisation, and the engineering behind hardware and software projects <br><br> Let's talk👇🏻 Questions? Opportunities? Just want to talk tech? I'm here. building, and solving real-world problems.
-This is for PR
+
 
 ## 🌐 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thohira/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thohirashaik11@gmail.com) 
